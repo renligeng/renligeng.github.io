@@ -1,7 +1,7 @@
 # Site settings
-title: 孔令贤的个人博客
-email: larrykong2016@gmail.com
-description: > #孔令贤的个人博客
+title: renligeng个人博客
+email: renligeng@gmail.com
+description: > #renligeng的个人博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://renligeng.github.io" # the base hostname & protocol for your site
 
@@ -25,17 +25,15 @@ kramdown:
 #博文的链接样式
 permalink: /:year-:month-:day-:title.html
 
-favicon: /assets/image/favicon.ico
+#favicon: /assets/image/favicon.ico
 
 # 博客作者相关
 author:
-  name: Lingxian Kong
-  email: lingxian.kong.nz@gmail.com
-  link: http://lingxiankong.github.io/
-  weibo: http://www.weibo.com/lingxiankong
-  weibo_username: Lingxian_Kong
-  github: https://github.com/lingxiankong
-  github_username: lingxiankong
+  name: RenLigeng
+  email: renligeng@gmail.com
+  link: http://renligeng.github.io/
+  github: https://github.com/renligeng
+  github_username: renligeng
 
 
 locals:
@@ -59,4 +57,4 @@ image: /assets/image/
 
 # disqus 设置
 disqus:
-  shortname: lingxiankong
+  shortname: renligeng
